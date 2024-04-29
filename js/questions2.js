@@ -2,268 +2,197 @@
 let questions2 = [
     {
     numb: 1,
-    question: "They decided to beef up the security for the event.",
-    answer: "test",
+    question: "I am in my teens.",
+    answer: "be + in age",
     options: [
-      "test",
-      "To make someone excited or full of energy.",
-      "To become smarter or more intelligent (usually after a mistake is made.)",
-      "To make something more exciting or fun."
+      "be + in age",
+      "be + about age",
+      "be + adjective + with + and (age + feature)",
+      "be + of build",
+      "have or have got features"
     ]
   },
     {
     numb: 2,
-    question: "The music helped liven up the party",
-    answer: "To make something more exciting or fun.",
+    question: "They are about sixty",
+    answer: "be + about age",
     options: [
-      "To make something stronger or more robust.",
-      "To make someone excited or full of energy.",
-      "To become smarter or more intelligent (usually after a mistake is made.)",
-      "To make something more exciting or fun."
-    ]
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
+      ]
   },
     {
     numb: 3,
-    question: "I got the job! I'm so pumped up!",
-    answer: "To make someone excited or full of energy.",
+    question: "I am middle-aged with curly hair and dark eyes.",
+    answer: "be + adjective + with + and (age + feature)",
     options: [
-      "To make something stronger or more robust.",
-      "To make someone excited or full of energy.",
-      "To become smarter or more intelligent (usually after a mistake is made.)",
-      "To make something more exciting or fun."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
     {
     numb: 4,
-    question: "I'm going to smarten up so I don't make the same mistake again.",
-    answer: "To become smarter or more intelligent (usually after a mistake is made.)",
+    question: "You are in your early twenties",
+    answer: "be + in age",
     options: [
-      "To make something stronger or more robust.",
-      "To make someone excited or full of energy.",
-      "To become smarter or more intelligent (usually after a mistake is made.)",
-      "To make something more exciting or fun."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 5,
-    question: "She changed her gym routine to toughen herself up for the competition.",
-    answer: "To make someone stronger or more able to deal with difficult situations.",
+    question: "I am of average height.",
+    answer: "be + of build",
     options: [
-      "To make someone stronger or more able to deal with difficult situations.",
-      "To talk about someone or something in a very positive way. To promote.",
-      "To make small improvements or repairs to something.",
-      "To make something more interesting or attractive."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 6,
-    question: "People always talk up the iPone, but I wasn't impressed.",
-    answer: "To talk about someone or something in a very positive way. To promote.",
+    question: "I have blue eyes",
+    answer: "have or have got features",
     options: [
-      "To make someone stronger or more able to deal with difficult situations.",
-      "To talk about someone or something in a very positive way. To promote.",
-      "To make small improvements or repairs to something.",
-      "To make something more interesting or attractive."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 7,
-    question: "They decided to jazz up the room with some brighter colors.",
-    answer: "To make something more interesting or attractive.",
+    question: "He is in his mid thirties.",
+    answer: "be + in age",
     options: [
-      "To make someone stronger or more able to deal with difficult situations.",
-      "To talk about someone or something in a very positive way. To promote.",
-      "To make small improvements or repairs to something.",
-      "To make something more interesting or attractive."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 8,
-    question: "He took his car to the garage to get the paint touched up.",
-    answer: "To make small improvements or repairs to something.",
+    question: "He is of medium build",
+    answer: "be + of build",
     options: [
-      "To make someone stronger or more able to deal with difficult situations.",
-      "To talk about someone or something in a very positive way. To promote.",
-      "To make small improvements or repairs to something.",
-      "To make something more interesting or attractive."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 9,
-    question: "I have to break up the book into smaller sections.",
-    answer: "To divide something into smaller, more manageable parts.",
+    question: "I have got dark hair",
+    answer: "have or have got features",
     options: [
-      "To use teeth to break food into smaller parts to swallow easily.",
-      "To divide something into equal pieces (in the sense of distribution)",
-      "To divide or break (in the sense of two things moving away from each other)",
-      "To divide something into smaller, more manageable parts."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 10,
-    question: "JLo and Ben split up again.",
-    answer: "To divide or break (in the sense of two things moving away from each other)",
+    question: "She is in her late forties",
+    answer: "be + in age",
     options: [
-      "To use teeth to break food into smaller parts to swallow easily.",
-      "To divide something into equal pieces (in the sense of distribution)",
-      "To divide or break (in the sense of two things moving away from each other)",
-      "To divide something into smaller, more manageable parts."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 11,
-    question: "We're going to divide up all the candy, 50/50.",
-    answer: "To divide something into equal pieces (in the sense of distribution)",
+    question: "She is about twenty-five",
+    answer: "be + about age",
     options: [
-      "To use teeth to break food into smaller parts to swallow easily.",
-      "To divide something into equal pieces (in the sense of distribution)",
-      "To divide or break (in the sense of two things moving away from each other)",
-      "To divide something into smaller, more manageable parts."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 12,
-    question: "Children need to chew up their food before swallowing.",
-    answer: "To use teeth to break food into smaller parts to swallow easily.",
+    question: "She is elderly with a long face and glasses",
+    answer: "be + adjective + with + and (age + feature)",
     options: [
-      "To use teeth to break food into smaller parts to swallow easily.",
-      "To divide something into equal pieces (in the sense of distribution)",
-      "To divide or break (in the sense of two things moving away from each other)",
-      "To divide something into smaller, more manageable parts."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 13,
-    question: "Let's cut up the cake!",
-    answer: "To physically divide something into smaller pieces.",
+    question: "He has a fair complexion and short, curly hair",
+    answer: "have or have got features",
     options: [
-      "To tear or rip something into pieces.",
-      "To divide something into smaller parts by chopping.",
-      "To physically divide something into smaller pieces.",
-      "To laugh a lot when something is really funny."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 14,
-    question: "I'll chop up some vegetables for the salad.",
-    answer: "To divide something into smaller parts by chopping.",
+    question: "We are in our fifties",
+    answer: "be + in age",
     options: [
-      "To tear or rip something into pieces.",
-      "To divide something into smaller parts by chopping.",
-      "To physically divide something into smaller pieces.",
-      "To laugh a lot when something is really funny."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 15,
-    question: "They tore up the contract.",
-    answer: "To tear or rip something into pieces.",
+    question: "They are of medium weight",
+    answer: "be + of build",
     options: [
-      "To tear or rip something into pieces.",
-      "To divide something into smaller parts by chopping.",
-      "To physically divide something into smaller pieces.",
-      "To laugh a lot when something is really funny."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
   {
     numb: 16,
-    question: "I was cracking up during the comedy show.",
-    answer: "To laugh a lot when something is really funny.",
+    question: "He's got fair hair and a bushy beard",
+    answer: "have or have got features",
     options: [
-      "To tear or rip something into pieces.",
-      "To divide something into smaller parts by chopping.",
-      "To physically divide something into smaller pieces.",
-      "To laugh a lot when something is really funny."
+        "be + in age",
+        "be + about age",
+        "be + adjective + with + and (age + feature)",
+        "be + of build",
+        "have or have got features"
     ]
   },
-  {
-    numb: 17,
-    question: "Please, sit up and pay attention.",
-    answer: "To fix your posture in your seat, often to be more attentive.",
-    options: [
-      "To fix your posture in your seat, often to be more attentive.",
-      "To remove something that's buried in the ground.",
-      "To mature, to be become an adult.",
-      "To increase rapidly and suddenly."
-    ]
-  },
-  {
-    numb: 18,
-    question: "I stopped being afraid of dogs after I grew up.",
-    answer: "To mature, to be become an adult.",
-    options: [
-      "To fix your posture in your seat, often to be more attentive.",
-      "To remove something that's buried in the ground.",
-      "To mature, to be become an adult.",
-      "To increase rapidly and suddenly."
-    ]
-  },
-  {
-    numb: 19,
-    question: "It's impressive that the sales shot up like that in January.",
-    answer: "To increase rapidly and suddenly.",
-    options: [
-      "To fix your posture in your seat, often to be more attentive.",
-      "To remove something that's buried in the ground.",
-      "To mature, to be become an adult.",
-      "To increase rapidly and suddenly."
-    ]
-  },
-  {
-    numb: 20,
-    question: "The dog dug up an old toy in the backyard.",
-    answer: "To remove something that's buried in the ground.",
-    options: [
-      "To fix your posture in your seat, often to be more attentive.",
-      "To remove something that's buried in the ground.",
-      "To mature, to be become an adult.",
-      "To increase rapidly and suddenly."
-    ]
-  },
-  {
-    numb: 21,
-    question: "Some peope are sick so that work is piling up.",
-    answer: "To increasingly and continuously accumulate.",
-    options: [
-      "To be on fire.",
-      "To have tears in eyes.",
-      "To vomit, to eject the contents of the stomach through the mouth.",
-      "To increasingly and continuously accumulate."
-    ]
-  },
-  {
-    numb: 22,
-    question: "The house is burning up!",
-    answer: "To be on fire.",
-    options: [
-      "To be on fire.",
-      "To have tears in eyes.",
-      "To vomit, to eject the contents of the stomach through the mouth.",
-      "To increasingly and continuously accumulate."
-    ]
-  },
-  {
-    numb: 23,
-    question: "You're tearing up! Do youwant ot talk about what's going on?",
-    answer: "To have tears in eyes.",
-    options: [
-      "To be on fire.",
-      "To have tears in eyes.",
-      "To vomit, to eject the contents of the stomach through the mouth.",
-      "To increasingly and continuously accumulate."
-    ]
-  },
-  {
-    numb: 24,
-    question: "Throw up in the bathroom, not here!",
-    answer: "To vomit, to eject the contents of the stomach through the mouth.",
-    options: [
-      "To be on fire.",
-      "To have tears in eyes.",
-      "To vomit, to eject the contents of the stomach through the mouth.",
-      "To increasingly and continuously accumulate."
-    ]
-  },
+
 // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
