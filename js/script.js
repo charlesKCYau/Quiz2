@@ -4,6 +4,7 @@ const info_box = document.querySelector(".info_box");
 const exit_btn = info_box.querySelector(".buttons .quit");
 const continue_btn = info_box.querySelector(".buttons .restart");
 const continue2_btn = info_box.querySelector(".buttons .restart2");
+const continue3_btn = info_box.querySelector(".buttons .restart3");
 const quiz_box = document.querySelector(".quiz_box");
 const result_box = document.querySelector(".result_box");
 const option_list = document.querySelector(".option_list");
@@ -32,6 +33,10 @@ continue_btn.onclick = ()=>{
 }
 continue2_btn.onclick = ()=>{
     questions = questions2;
+    continue_btn.onclick();
+}
+continue3_btn.onclick = ()=>{
+    questions = questions3;
     continue_btn.onclick();
 }
 
