@@ -244,7 +244,7 @@ let questions = [
   },
   {
     numb: 23,
-    question: "You're tearing up! Do youwant ot talk about what's going on?",
+    question: "You're tearing up! Do you want to talk about what's going on?",
     answer: "To have tears in eyes.",
     options: [
       "To be on fire.",
